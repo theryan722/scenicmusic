@@ -2,11 +2,11 @@
 HackRPI Project
 2015
 
-#Awards Won
+# Awards Won
 * Most Polished App
 
-#Notice
+# Notice
 The images used in the website are not included in this repo.
 
-#Devpost
+# Devpost
 [Here is the link to the project submission page](http://devpost.com/software/scenicmusic)
